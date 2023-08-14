@@ -21,8 +21,8 @@
 <p align="left">
 <a href="https://twitter.com/dharani_twts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dharani_twts" height="30" width="40" /></a>
 <a href="https://instagram.com/dharaniz.awsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharaniz.awsm" height="30" width="40" /></a>
-<a href="https://hashnode.com/dharaniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="dharaniz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/TicklyCoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tickly coder" height="30" width="40" /></a>
+<a href="https://dharaniz.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="dharaniz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC2a4kvxYD-MJLYVymXUTaOw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tickly coder" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dharaniz_awsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharaniz_awsm" height="30" width="40" /></a>
 </p>
 
