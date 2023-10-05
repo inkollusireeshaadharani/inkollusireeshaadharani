@@ -1,21 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sireeshaa Dharani Inkollu</h1>
-<h3 align="center">A passionate developer from India. I love Java <3. Yeah that's right!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inkollusireeshaadharani&label=Profile%20views&color=0e75b6&style=flat" alt="inkollusireeshaadharani" /> </p>
+<h1 align="center">Hi there👋, glad you found me!</h1>
+<h3 align="center">Code without errors makes me happy, but code with errors is what has made me a good developer through its lessons! </h3>
 
 <p align="left"> <a href="https://twitter.com/dharani_twts" target="blank"><img src="https://img.shields.io/twitter/follow/dharani_twts?logo=twitter&style=for-the-badge" alt="dharani_twts" /></a> </p>
 
-- 🌱 I’m currently learning **React JS, Spring Boot**
+- 🌱 I’m currently learning **Vue JS, React JS, Spring Boot**
 
-- 👨‍💻 Check out my projects at [https://inkollusireeshaadharani.github.io/](https://inkollusireeshaadharani.github.io/)
-
-- 📝 I write articles on [https://dharaniz.hashnode.dev/](https://dharaniz.hashnode.dev/)
+- 📝 I some times write articles on [https://dharaniz.hashnode.dev/](https://dharaniz.hashnode.dev/)
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **https://twitter.com/dharani_twts**
 
-- ⚡ Fun fact **Using a dedicated IDE >>> VS Code**
+- ⚡ Fun fact **Get your hands dirty to write code cleanly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
