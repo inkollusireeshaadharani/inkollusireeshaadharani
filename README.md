@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, glad you found me!</h1>
-<h3 align="center">Code without errors makes me happy, but code with errors is what has made me a good developer through its lessons! </h3>
+<h3 align="center">Code without errors is great, but code with errors is what has made me a good programmer! </h3>
 
 <p align="left"> <a href="https://twitter.com/dharani_twts" target="blank"><img src="https://img.shields.io/twitter/follow/dharani_twts?logo=twitter&style=for-the-badge" alt="dharani_twts" /></a> </p>
 
