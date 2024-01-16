@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/dharani_twts" target="blank"><img src="https://img.shields.io/twitter/follow/dharani_twts?logo=twitter&style=for-the-badge" alt="dharani_twts" /></a> </p>
 
-- 🌱 I’m currently learning **Vue JS, React JS, Spring Boot**
-
-- 📝 I some times write articles on [https://dharaniz.hashnode.dev/](https://dharaniz.hashnode.dev/)
+- 🌱 I’m currently learning **Web Dev**
 
 - 💬 Ask me about **Java**
 
